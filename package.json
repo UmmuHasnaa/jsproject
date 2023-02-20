@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/UmmuHasnaa/jsproject/issues"
   },
-  "homepage": "https://github.com/UmmuHasnaa/jsproject#readme"
+  "homepage": "https://github.com/UmmuHasnaa/jsproject#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
