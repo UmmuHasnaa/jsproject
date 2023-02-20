@@ -1,0 +1,25 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "This is our IT project 1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmmuHasnaa/jsproject.git"
+  },
+  "keywords": [
+    "js",
+    "itProject",
+    "javascript",
+    "schoolproject"
+  ],
+  "author": "Hafsa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UmmuHasnaa/jsproject/issues"
+  },
+  "homepage": "https://github.com/UmmuHasnaa/jsproject#readme"
+}
